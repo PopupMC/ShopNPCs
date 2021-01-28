@@ -1,0 +1,8 @@
+name: ShopNPCs
+version: 1.0
+main: com.popupmc.shopnpcs.ShopNpcs
+description: Shop NPCs
+author: junebug12851
+api-version: 1.15
+
+depend: [Citizens,Vault]
